@@ -27,6 +27,7 @@ Determine the winner based on the rules of Rock Paper Scissors.
 Output the result (win, lose, or draw) to the console.
 
 Example: node rockPaperScissors.js rock # Output: You chose rock. Computer chose scissors. You win!
+https://en.wikipedia.org/wiki/Rock_paper_scissors
 
 
 
@@ -46,6 +47,7 @@ Example: Awesome = Awesome +way = Awesomeway
 Output the translated phrase to the console.
 
 Example: node pigLatin.js "Pig Latin is hard to speak" # Output: Igpay Atinlay isway ardhay otay eakspay
+https://en.wikipedia.org/wiki/Pig_Latin
 
 
 
@@ -62,7 +64,7 @@ A positive shift means shift to the right
 Output the encrypted phrase to the console.
 
 Example: node caesarCipher.js "hello world" 3 # Output: khoor zruog
-🤓 Tips for Effective Planning
+https://en.wikipedia.org/wiki/Caesar_cipher
 
 
 
