@@ -30,6 +30,10 @@ Example: node rockPaperScissors.js rock # Output: You chose rock. Computer chose
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 
 
+### rps-game.js
+Run gamefile with arguments (rock, paper, scissors - or use r,p,s), for example: node rps-game.js p
+
+
 
 FR006	Pig Latin Translator Implementation	Create a command-line Pig Latin translator that: takes input from process.argv, converts each word according to Pig Latin rules, and outputs the translated text.
 
