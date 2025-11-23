@@ -77,8 +77,8 @@ https://en.wikipedia.org/wiki/Caesar_cipher
 Github:
     https://github.com/jobben-2025/webAPIs
 
-Github-Pages:
-    
+Required pull requests for every code update:
+    https://github.com/jobben-2025/webAPIs/pulls?q=is%3Apr+is%3Aclosed    
 
 Trello:
     https://trello.com/b/qAfXQHkY/webapis
